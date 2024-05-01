@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from mdx_bleach.extension import BleachExtension
+from .extension import BleachExtension
 
 
 VERSION = '0.1.4'
